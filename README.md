@@ -1,3 +1,3 @@
 
 # FirstLab
-I am here to update the first lab readme
+This first program will ask the user for their name and their age and then display it at the end
